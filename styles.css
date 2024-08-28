@@ -5,4 +5,13 @@ body {
 
 header{
     border-bottom: solid 2px whitesmoke;
+    padding: 20px;
+    font-size: 32px;
+    color: whitesmoke
+}
+
+section{
+    background: rgb(9 38 56);
+    padding-bottom: 80px;
+    padding-top: 80px;
 }
