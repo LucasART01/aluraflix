@@ -1,5 +1,5 @@
 body {
-    color:cyan;
+    color:rgb(14, 224, 224);
     background:black;
 }
 
@@ -11,13 +11,13 @@ header{
 }
 
 section{
-    background: rgb(241, 33, 6);
+    background: rgb(24, 25, 26);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
 
-div{
-
+.chamada-texto {
+    margin-right: 5%;
 }
